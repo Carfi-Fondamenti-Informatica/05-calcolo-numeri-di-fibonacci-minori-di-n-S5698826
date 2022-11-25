@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-int n=0, primoN=1,secondoN=1,terzoN;
+int i,n=0,primoN=1,secondoN=1,terzoN;
 cin>>n;
 cout<<primoN<<endl;
 cout<<secondoN<<endl;     
