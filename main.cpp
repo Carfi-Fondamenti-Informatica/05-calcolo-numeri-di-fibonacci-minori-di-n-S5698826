@@ -10,7 +10,7 @@ for (int i=2;i<=n;i++){
     terzoN = primoN + secondoN;
     primoN = secondoN;
     secondoN = terzoN;
-    if (terzoN<=n){
+    if (terzoN<=n)
     cout << terzoN << endl;  
   }
    return 0;
